@@ -1,6 +1,6 @@
 module.exports = {
     FIREBASE_CONFIG: {
-        apiKey: "",
+        apiKey: "testingkeyfake",
         authDomain: "uport-verify-dev.firebaseapp.com",
         databaseURL: "https://uport-verify.firebaseio.com",
         projectId: "uport-verify-dev",
