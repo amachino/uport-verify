@@ -1,0 +1,17 @@
+{
+  "rules": {
+    /* Disable Everything  */
+    ".read"  : false,
+    ".write" : false,
+
+    /* Self - Secure Accounts  */
+    "user": {
+      "$uid": {
+        ".read": "$uid === auth.uid",
+        ".write": "$uid === auth.uid"
+      }
+    }
+    
+  }
+}
+
