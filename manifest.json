@@ -1,6 +1,6 @@
 {
-  "short_name": "EthereumProjects",
-  "name": "EthereumProjects",
+  "short_name": "uPortVerify",
+  "name": "uPortVerify",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,6 +10,6 @@
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#FFF",
+  "background_color": "#5c50ca"
 }
