@@ -15,7 +15,7 @@ yarn start => production
 
 ### Overview
 
-Verifiable credentials are the basis of digital identity. This application is designed to help users get started with uPort by earning simple credentials. Users can complete a simple flow (like email verification, or a post to a social profile) to prove a fact. The application then issues the user a credential attesting to that fact.
+Verifiable credentials are the basis of decentralized identity. This application is designed to help users get started with uPort by issuing some simple claims. Users can complete a basic flow (like email verification, or a post to a social profile) to prove a fact. The application then issues the user a credential attesting to that fact.
 
 This application is a utility service that sits atop the uPort system. It also serves as a reference implementation to guide other developers in creating their own applications.
 
